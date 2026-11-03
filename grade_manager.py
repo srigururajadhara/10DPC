@@ -1,10 +1,3 @@
-"""Student Grade Manager - Week 1, Day 2 assignment.
-
-This program uses only Python's built-in features.
-Student records are stored in a list of dictionaries, so two students
-can have the same name without overwriting each other.
-"""
-
 # Each dictionary in this list stores one student's name and mark.
 students = []
 
